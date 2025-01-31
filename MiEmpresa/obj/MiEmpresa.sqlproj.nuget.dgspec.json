@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "/workspaces/sql-server/MiEmpresa/MiEmpresa.sqlproj": {}
+  },
+  "projects": {
+    "/workspaces/sql-server/MiEmpresa/MiEmpresa.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/workspaces/sql-server/MiEmpresa/MiEmpresa.sqlproj",
+        "projectName": "MiEmpresa",
+        "projectPath": "/workspaces/sql-server/MiEmpresa/MiEmpresa.sqlproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/sql-server/MiEmpresa/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU5128"
+          ]
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

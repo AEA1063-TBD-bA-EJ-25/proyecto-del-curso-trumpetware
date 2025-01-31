@@ -1,0 +1,9 @@
+/workspaces/sql-server/MiEmpresa/bin/Debug/MiEmpresa.dacpac
+/workspaces/sql-server/MiEmpresa/bin/Debug/MiEmpresa.dll
+/workspaces/sql-server/MiEmpresa/bin/Debug/MiEmpresa.pdb
+/workspaces/sql-server/MiEmpresa/obj/Debug/Model.xml
+/workspaces/sql-server/MiEmpresa/obj/Debug/refactor.xml
+/workspaces/sql-server/MiEmpresa/obj/Debug/postdeploy.sql
+/workspaces/sql-server/MiEmpresa/obj/Debug/predeploy.sql
+/workspaces/sql-server/MiEmpresa/obj/Debug/MiEmpresa.dll
+/workspaces/sql-server/MiEmpresa/obj/Debug/MiEmpresa.pdb
