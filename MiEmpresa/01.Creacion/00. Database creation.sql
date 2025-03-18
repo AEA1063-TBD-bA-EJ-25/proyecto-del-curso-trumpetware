@@ -1,13 +1,12 @@
 -- Replace 'New_Database' with your database name
 IF NOT EXISTS 
     ( SELECT name FROM master.dbo.sysdatabases WHERE name = N'New_Database' ) 
-    CREATE DATABASE [New_Database]
+    CREATE DATABASE [TrumpetWare]
 ELSE
     BEGIN
-        DROP DATABASE [New_Database]
+        DROP DATABASE [TrumpetWare]
     END
 go
 
-USE New_Database
+USE TrumpetWare;
 
-C
